@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "description": ""
   },
-  "host": "https://contacts-project-lp5g.onrender.com",
+  "host": "contacts-project-lp5g.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
